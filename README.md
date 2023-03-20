@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on `web-based machine learning systems for cybernetic configuration`
 - 🌱 I’m currently learning `decentralized finance`
 - 📫 How to reach me: [evansimpsonDEV@gmail.com](mailto:evansimpsonDEV@gmail.com)
-- 😄 Pronouns: `He/Him`
+- Personal site: [sevan.online](sevan.online)
