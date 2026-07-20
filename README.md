@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://evan.news/api/github-stats?theme=light&amp;v=3" />
   <img alt="Evan Simpson's GitHub stats" src="https://evan.news/api/github-stats?theme=light&amp;v=3" />
 </picture>
-<br/><br/>
+<br/>
 
 - 🔭 Working on `software platforms for image guided surgery`
 - 🏸 Playing on combining nets & mediums for conversational exhibits
